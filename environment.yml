@@ -1,0 +1,26 @@
+# To use:
+#   $ conda env create -f environment.yml
+#   $ conda activate d2l
+name: wekeo
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - scikit-learn
+    - numpy
+    - scipy
+    - matplotlib
+    - pandas
+    - rasterio
+    - hda
+    - sentinelsat
+    - geopandas
+    - folium
+    - zarr
+    - umap-learn
+    - scikit-image
+    - matplotlib
+    - ipywidgets
+    - torch==1.8.1
+    - torchvision==0.9.1
+
