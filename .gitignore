@@ -1,0 +1,3 @@
+*.zarr
+*.DS_Store
+temp/
