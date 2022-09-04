@@ -14,6 +14,12 @@ In this project, we used remote sensing products delivered by the Sentinel-2 mis
 
 Public repositories of remote sensing products such as the ones provided by the Sentinel missions offer an excellent opportunity to monitor the impact of climate change on our environment. For Aculeo's lake could be too late, but real-time monitoring analysis of wetlands using satellite imagery can be used to predict critical situations that require urgent action by society. This technology can potentially become the tool that makes the difference between losing or saving our planet as we know it.
 
+## How to run this article
+
+This article is designed to be run in **Wekeo Jupyter Hub**. You can copy this repository and run the notebook titled `Portrait_of_a_lakes_death.ipynb`. There you will need to install some dependencies with `pip` before running the rest of the article. 
+
+It is possible to run this notebook in **Binder**, however the RAM available is not enough to process all the images required for the analysis. 
+
 ## License
 
 Copyright (c) 2022 Carlos Vivar Rios, Colas Droin, and Diana Zambelloni.
